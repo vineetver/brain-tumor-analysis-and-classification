@@ -2,12 +2,13 @@
 
 dataset url: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
 
-Seaborn: https://seaborn.pydata.org/
+
+
+Analyzing brain tumor and A neural network which can identify what kind of tumor exists in the brain. The model is supposed to classify brain tumors between: Meningloma, Glioma and Pitutary Tumors.
 
 
 
 
-![home_blaq_Downloads_seaborn-tumor-diagnosis html](https://user-images.githubusercontent.com/66165922/90766095-a2469680-e308-11ea-964c-b7b993b72411.png)
 
 
 
