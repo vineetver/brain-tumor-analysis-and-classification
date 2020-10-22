@@ -1,4 +1,4 @@
-# Data Analysis and Prediction of brain tumor in a brain
+# Data Analysis and Prediction of brain tumor
 
 dataset url: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
 
