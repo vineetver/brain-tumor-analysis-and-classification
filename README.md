@@ -1,6 +1,8 @@
 # Data Analysis and Prediction of brain tumor
 
-dataset url: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
+Dataset url: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
+
+Notebook url: [Tumor Diagnosis & Classification.pdf](https://github.com/vineetver/brain-tumor-analysis-and-classification/files/5440538/Tumor.Diagnosis.Classification.pdf)
 
 
 
